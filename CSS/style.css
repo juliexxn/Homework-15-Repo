@@ -1,0 +1,117 @@
+body{
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  footer{
+    margin-top: 2rem;
+    margin-bottom: 0;
+    padding: 1rem;
+  }
+
+  .h3 {
+    background-color: #FFDD33; 
+    font-weight: bold;
+  }
+  
+  .nav-color {
+    background-image: url("Images/grayyellow.jpg");
+  }
+
+  .primary-color{
+    background-color: whitesmoke;
+  }
+
+  .jumbotron p {
+      font-size: 40px;
+      font-family: 'Shadows Into Light', cursive;
+  }
+  
+  .jumbotron{
+    background-color: #FFDD33;
+  }
+  
+  .jumbotron h1{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 100px; 
+  }
+  
+  .jumbotron img{
+    border-style: solid;
+    border-width: 0.5rem;
+    border-color: whitesmoke;
+  }
+  
+ 
+  .container{
+    padding: 0;
+  }
+  
+  .row{
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .no-padding{
+    padding: 0;
+  }
+  
+  .height-adjust{
+    height: 90%;
+  }
+  
+
+  .card-img-top {
+    border-radius: 0;
+  }
+  
+  .card {
+    border-radius: 0;
+  }
+  
+  .card-title {
+    border-radius: 0;
+    font-family: 'Shadows Into Light', cursive;
+
+  }
+
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  
+  .profile-pic{
+    width: 300px;
+    height: 300px;
+  }
+
+  .btn{
+    border-radius: 2;
+  }
+  
+  .btn:hover{
+    box-shadow: 0px 0px 2px 2px black;
+  }
+  
+ 
+  a {
+    color: #4F6367;
+  }
+  
+  a:hover{
+    color: black;
+    background-color: #FFDD33; 
+  }
+  
+
+  .focus-img{
+    height: 3rem;
+    width: 3rem;
+    margin-bottom: 1rem;
+  }
+
+  .col-2 {
+    background-color: #FFDD33; 
+    font-weight: bolder;
+  }
+  
+  
